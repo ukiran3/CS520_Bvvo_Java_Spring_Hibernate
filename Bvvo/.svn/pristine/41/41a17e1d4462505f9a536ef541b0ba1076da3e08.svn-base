@@ -1,0 +1,2 @@
+error.user.username.empty=Username is required.
+error.user.password.empty=Password is required.

@@ -1,0 +1,11 @@
+error.user.email.empty=Username is required.
+error.user.password.empty=Password is required.
+error.user.fName.empty=First Name is required.
+error.user.lName.empty=Last Name is required.
+error.user.city.empty=City is required.
+error.user.state.empty=State is required.
+error.user.zip.empty=Zip Code is required.
+error.user.areaOfExpertise.empty=Area of Expertise is required.
+error.user.year.empty=Years of experience is required.
+error.review.title.empty=Title required.
+error.review.message.empty=Message required.
